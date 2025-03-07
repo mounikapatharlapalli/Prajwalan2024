@@ -26,10 +26,9 @@ PRAJWALAN 2K24 is an official event website designed to provide information abou
 
 ## Contact
 For queries, feel free to reach out:
-- **Email**: mounika212325@gmail.com(mailto:your-email@example.com)
-
+- **Email**: mounika212325@gmail.com
 ---
 **PRAJWALAN 2K24** - Ignite the Future!
 ## Event Banner
-![PRAJWALAN 2K24](banner.jpg)
+![PRAJWALAN 2K24](banner.png)
 
