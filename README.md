@@ -1,4 +1,3 @@
-# Prajwalan2024
 # PRAJWALAN 2K24 - Event Website
 
 ## Overview
